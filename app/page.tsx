@@ -42,7 +42,7 @@ export default function Home() {
       <header className="fixed top-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-md border-b border-gray-100">
         <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
 
-          <h1 className="font-semibold text-lg">Ezekiel</h1>
+          <h1 className="font-semibold text-lg">Ezekiel Vince Eleserio</h1>
 
           <nav className="flex gap-8 text-sm text-gray-700">
             <a href="#services" className="hover:text-black transition">Services</a>
