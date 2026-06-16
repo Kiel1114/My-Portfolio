@@ -281,7 +281,7 @@ export default function Home() {
 
         {/* FOOTER */}
         <footer className="py-10 text-center text-gray-400 text-sm">
-          © {new Date().getFullYear()} Ezekiel. All rights reserved.
+          © {new Date().getFullYear()} Ezekiel Vince Eleserio. All rights reserved.
         </footer>
 
       </main>
